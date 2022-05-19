@@ -1,0 +1,32 @@
+body{
+    background-color: #E0DEDD;
+}
+
+header{
+    text-align: center;
+    padding-right: 64px;
+}
+
+.imagenLogo{
+    float: left;
+}
+
+.fontType{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.titulos{
+    text-align: center;
+}
+
+.letrasNav{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.paddingNav{
+    padding-left: 24px;
+}
+
+.fontForm{
+    font-family: 'Times New Roman', Times, serif;
+}
